@@ -5,8 +5,8 @@
 If you discover a security vulnerability in ChatAPI, please report it responsibly:
 
 1. **DO NOT** open a public issue
-2. Email security details to: [your-email@example.com]
-3. Include:
+2. Email security details to: [shajapurkaraarav@gmail.com]
+4. Include:
    - Description of the vulnerability
    - Steps to reproduce
    - Potential impact
@@ -130,3 +130,4 @@ Security researchers who have helped improve ChatAPI:
 ## Contact
 
 Security Team: [your-email@example.com]
+
